@@ -2,8 +2,8 @@
   "name": "stats.js",
   "version": "0.17.0",
   "description": "JavaScript Performance Monitor",
-  "main": "build/stats.js",
-  "types": "build/stats.d.ts",
+  "main": "build/Stats.js",
+  "types": "build/Stats.d.ts",
   "repository": "ahejackson/stats.js",
   "directories": {
     "example": "examples"
